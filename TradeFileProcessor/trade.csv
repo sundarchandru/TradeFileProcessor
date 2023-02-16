@@ -1,0 +1,5 @@
+date,product_name,currency,price
+20210505,Treasury Bills Domestic,EUR,10.0
+20230505,REPO Domestic,EUR,30.0
+20220505,Corporate Bonds Domestic,EUR,20.0
+20240505,Missing Product Name,EUR,35.0
